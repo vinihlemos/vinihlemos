@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hello/Olá 👋 I'am the Vinicius/Eu sou o Vinícius.
 
-<!--
-**vinihlemos/vinihlemos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📘 I’m currently learning: Analyze and Develop of Systems/ ADS
+- 💬 Ask me about: Something/ Alguma coisa
+- 😄 Pronouns: he/his ... Ele/Dele
 
-Here are some ideas to get you started:
+            🦆🦆🦆🦆🦆🦆
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=182 align="center" src="https://github-readme-stats.vercel.app/api?username=Vinihlemos" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vinihlemos&layout=compact&langs_count=8&card_width=200" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div> 
+  <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q(https://www.youtube.com/@Viinihl)" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/viinihl" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:vinihlemos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a(https://www.linkedin.com/in/vin%C3%ADcius-lemos-bb558b202/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>  
+          
