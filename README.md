@@ -2,9 +2,9 @@
 
 - 📘 I’m currently learning: Analyze and Develop of Systems/ ADS
 - 💬 Ask me about: Something/ Alguma coisa
-- 😄 Pronouns: he/his ... Ele/Dele
+- 😄 Pronouns: he/hem ... Ele/Dele
 
-            🦆🦆🦆🦆🦆🦆
+                                         🦆🦆🦆🦆🦆🦆
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=182 align="center" src="https://github-readme-stats.vercel.app/api?username=Vinihlemos" />
 </a>
