@@ -4,7 +4,8 @@
 - 💬 Ask me about: Something/ Alguma coisa
 - 😄 Pronouns: he/him ... Ele/Dele
 
-                                                        🦆🦆🦆🦆🦆🦆
+                                                
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=182 align="center" src="https://github-readme-stats.vercel.app/api?username=Vinihlemos" />
 </a>
@@ -19,4 +20,7 @@
   <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a(https://www.linkedin.com/in/vin%C3%ADcius-lemos-bb558b202/)(https://www.linkedin.com/in/vin%C3%ADcius-lemos-bb558b202/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>  
+
+![XOsX](https://github.com/user-attachments/assets/9c5946a6-3b27-4d09-9043-feacdaf19b2a)
+
           
